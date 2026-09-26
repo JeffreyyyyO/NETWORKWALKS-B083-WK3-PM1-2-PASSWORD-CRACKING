@@ -85,18 +85,25 @@ Finally, I learned that password cracking must always be performed within an aut
 
 # **8\. Evidence Collected**
 
-## **Module 1: John the Ripper & Online Hashcrack**
+## **Module 1 (W3-PM1): John the Ripper & Online Hashcrack**
 
 ![](./images/my_locked_pdf1.jpg)
 
-## **Module 2: Networkwalks' Hash Calculator & Password Cracker**
+*Figure 1: Content of the first PDF showing flag*
+
+---
+
+## **Module 2 (W3-PM2): Networkwalks' Hash Calculator & Password Cracker**
 
 ![](./images/my_locked_pdf2.jpg)
+
+*Figure 2: Content of the second PDF showing flag*
+
+---
 
 **Author**  
 Jeffrey Obi  
 Cybersecurity Professional B083
-
 LinkedIn: [https://www.linkedin.com/in/jeffreyoo/](https://www.linkedin.com/in/jeffreyoo/) 
 
 ---
