@@ -101,9 +101,8 @@ Finally, I learned that password cracking must always be performed within an aut
 
 ---
 
-**Author**  
-Jeffrey Obi  
-Cybersecurity Professional B083
-LinkedIn: [https://www.linkedin.com/in/jeffreyoo/](https://www.linkedin.com/in/jeffreyoo/) 
+**Jeffrey Obi**<br>
+Cybersecurity Professional B083<br>
+[**LinkedIn**](https://www.linkedin.com/in/jeffreyoo/) 
 
 ---
