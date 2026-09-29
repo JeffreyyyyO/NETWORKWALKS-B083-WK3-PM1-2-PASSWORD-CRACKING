@@ -14,7 +14,7 @@ W3-PM1 | W3-PM2 | CYBERSECURITY |  NETWORKWALKS
 
 # **1\. Liability Disclaimer**
 
-This project was undertaken for educational purposes **ONLY.*** All activities were performed only on the systems, devices and networks that I own, myself. This project was executed for education and research purposes **ONLY.*** Do not use anything from here to break the law. The instructor, the author and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries unauthorized access is a crime, even when nothing is damaged.
+This project was undertaken for educational purposes **ONLY.** All activities were performed only on the systems, devices and networks that I own, myself. This project was executed for education and research purposes **ONLY.** Do not use anything from here to break the law. The instructor, the author and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries unauthorized access is a crime, even when nothing is damaged.
 
 # **2\. Introduction**
 
